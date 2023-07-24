@@ -20,9 +20,6 @@ public class TestClass18 {
         System.out.println("Cat name is: " + cat.name);
         System.out.println("Dog name is: " + dog.name);
 
-        cat.sound();
-        dog.sound();
-
         dog.var = 10;
 
         System.out.println(dog.getWeight());;

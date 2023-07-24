@@ -19,5 +19,8 @@ public class TestClass19 {
 
         System.out.println("Cat name is: " + cat.name);
         System.out.println("Dog name is: " + dog.name);
+
+        cat.sound();
+        dog.sound();
     }
 }
