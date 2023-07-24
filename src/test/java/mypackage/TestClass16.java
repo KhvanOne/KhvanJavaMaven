@@ -24,7 +24,7 @@ public class TestClass16 {
         System.out.println();
 
         System.out.println(Car.var);
-        Car.var = 100;
+        Car. var = 100;
 
         System.out.println(car1.var);
         System.out.println(car2.var);
